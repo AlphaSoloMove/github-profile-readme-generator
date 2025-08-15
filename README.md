@@ -178,5 +178,5 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 
 <hr>
 <p align="center">
-Developed with ❤️ in India 🇮🇳 
+Developed with ❤️ in India 🇮🇳 g
 </p>
