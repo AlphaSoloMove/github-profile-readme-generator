@@ -39,7 +39,7 @@
 </p>
 
 <p align="center">
-<i>Loved the tool? Please consider <a href="https://paypal.me/rahuldkjain/10">donating</a>  💸 to help it improve!</i>
+<i>Loved the tool? Please c   onsider <a href="https://paypal.me/rahuldkjain/10">donating</a>  💸 to help it improve!</i>
 </p>
 
 <p align="center">
